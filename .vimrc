@@ -1,6 +1,6 @@
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
-:imap jj <ESC>
+:imap jk <ESC>
 let g:ctrlp_map = ';'
 let g:ctrlp_cmd = 'CtrlPBuffer'
 let g:ctrlp_working_path_mode = ''
